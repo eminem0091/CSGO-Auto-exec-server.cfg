@@ -1,2 +1,2 @@
 # INFO
-Tested only for CS:GO
+Plugin automatically load cfg/server.cfg on map start.
