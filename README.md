@@ -1,2 +1,2 @@
-# test
-test2
+# INFO
+Tested only for CS:GO
